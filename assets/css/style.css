@@ -417,6 +417,12 @@ h6 {
   width: 100%;
   height: 80vh;
   background: var(--azul);
+ /*  background: url("C:\\Users\\salva\\codice2\\assets\\img\\ASESORÍA EN SUSTENTABILIDAD.jpg"), url('https://images.unsplash.com/photo-1438109491414-7198515b166b?q=80&fm=jpg&s=cbdabf7a79c087a0b060670a6d79726c'); */
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  background-attachment: fixed;
+
 }
 
 #hero .container {
