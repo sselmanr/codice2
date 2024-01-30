@@ -1861,3 +1861,7 @@ transition: 0.3s;
   padding-top: 4px;
 }
 }
+
+.bordesRedondos{
+  border-radius: 4px 4px 40px 4px !important;
+}
